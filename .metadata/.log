@@ -1,0 +1,409 @@
+!SESSION 2022-09-05 19:55:12.750 -----------------------------------------------
+eclipse.buildId=4.14.0.202203131612
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2022-09-05 19:55:22.900
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-09-05 19:55:22.900
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@565c887e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5c215642,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-09-05 19:55:22.900
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1317ac2c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@416c1b0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-09-05 19:55:26.971
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Brunno'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2022-09-05 19:55:39.246
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2022-09-05 19:55:40.391 -----------------------------------------------
+eclipse.buildId=4.14.0.202203131612
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2022-09-05 19:55:47.421
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-09-05 19:55:47.421
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3aa63b53,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@39a9becc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-09-05 19:55:47.421
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@177302d6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2af3b054,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-09-05 19:55:49.821
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Brunno'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2022-09-05 19:58:39.783
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 2 0 2022-09-05 20:01:23.251
+!MESSAGE Exception: File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\main\java\com\devsuperior\dsmeta\DsmetaApplication.java.
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\main\java\com\devsuperior\dsmeta\DsmetaApplication.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1210)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1218)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:269)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:283)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:969)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:635)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:100)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:860)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:392)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:417)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\main\java\com\devsuperior\dsmeta\DsmetaApplication.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	... 26 more
+Caused by: java.lang.Exception: File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\main\java\com\devsuperior\dsmeta\DsmetaApplication.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 29 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/backend/src/main/java/com/devsuperior/dsmeta/DsmetaApplication.java)[368]: java.lang.Exception: File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\main\java\com\devsuperior\dsmeta\DsmetaApplication.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1218)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:269)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:283)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:969)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:635)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:100)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:860)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:392)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:417)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2022-09-05 20:01:23.253
+!MESSAGE File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\main\java\com\devsuperior\dsmeta\DsmetaApplication.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/backend/src/main/java/com/devsuperior/dsmeta/DsmetaApplication.java)[368]: java.lang.Exception: File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\main\java\com\devsuperior\dsmeta\DsmetaApplication.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1218)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:269)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:283)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:969)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:635)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:100)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:860)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:392)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:417)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2022-09-05 20:01:23.253
+!MESSAGE File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\main\java\com\devsuperior\dsmeta\DsmetaApplication.java.
+!STACK 0
+java.lang.Exception: File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\main\java\com\devsuperior\dsmeta\DsmetaApplication.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1218)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:269)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:283)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:969)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:635)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:100)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:860)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:392)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:417)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 2 0 2022-09-05 20:01:23.254
+!MESSAGE Exception: File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\test\java\com\devsuperior\dsmeta\DsmetaApplicationTests.java.
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\test\java\com\devsuperior\dsmeta\DsmetaApplicationTests.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1210)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1218)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:269)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:283)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:969)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:635)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:100)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:860)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:392)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:417)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\test\java\com\devsuperior\dsmeta\DsmetaApplicationTests.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	... 26 more
+Caused by: java.lang.Exception: File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\test\java\com\devsuperior\dsmeta\DsmetaApplicationTests.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 29 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/backend/src/test/java/com/devsuperior/dsmeta/DsmetaApplicationTests.java)[368]: java.lang.Exception: File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\test\java\com\devsuperior\dsmeta\DsmetaApplicationTests.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1218)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:269)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:283)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:969)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:635)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:100)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:860)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:392)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:417)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2022-09-05 20:01:23.254
+!MESSAGE File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\test\java\com\devsuperior\dsmeta\DsmetaApplicationTests.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/backend/src/test/java/com/devsuperior/dsmeta/DsmetaApplicationTests.java)[368]: java.lang.Exception: File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\test\java\com\devsuperior\dsmeta\DsmetaApplicationTests.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1218)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:269)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:283)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:969)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:635)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:100)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:860)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:392)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:417)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2022-09-05 20:01:23.254
+!MESSAGE File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\test\java\com\devsuperior\dsmeta\DsmetaApplicationTests.java.
+!STACK 0
+java.lang.Exception: File not found: C:\Users\Brunno\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Projeto DSmeta\backend\src\test\java\com\devsuperior\dsmeta\DsmetaApplicationTests.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1218)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:269)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:283)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getTypes(CompilationUnit.java:969)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getAllTypes(CompilationUnit.java:635)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule$ValidationVisitor.visit(MissingConfigurationProcessorRule.java:148)
+	at org.springframework.ide.eclipse.boot.validation.rules.MissingConfigurationProcessorRule.validate(MissingConfigurationProcessorRule.java:249)
+	at org.springframework.ide.eclipse.boot.validation.framework.SpringBootProjectBuilder.build(SpringBootProjectBuilder.java:100)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:860)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:392)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:417)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.ui.ide 4 4 2022-09-05 20:01:33.402
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2022-09-05 20:01:33.403
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-09-05 20:01:33.403
+!MESSAGE The project description file (.project) for 'backend' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-09-05 20:01:35.616
+!MESSAGE The workspace will exit with unsaved changes in this session.
